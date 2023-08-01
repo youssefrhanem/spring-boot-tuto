@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+
+# to turn off the web server
+spring:
+  main:
+    web-application-type: servlet
